@@ -19,457 +19,457 @@ msgstr ""
 
 #: action.cpp:309 npcmove.cpp:2047
 msgid "Pause"
-msgstr ""
+msgstr "Pauser"
 
 #: action.cpp:311
 msgid "Move North"
-msgstr ""
+msgstr "Aller au nord"
 
 #: action.cpp:313
 msgid "Move Northeast"
-msgstr ""
+msgstr "Aller au nord-est"
 
 #: action.cpp:315
 msgid "Move East"
-msgstr ""
+msgstr "Aller à l'est"
 
 #: action.cpp:317
 msgid "Move Southeast"
-msgstr ""
+msgstr "Aller au sud-est"
 
 #: action.cpp:319
 msgid "Move South"
-msgstr ""
+msgstr "Aller au sud"
 
 #: action.cpp:321
 msgid "Move Southwest"
-msgstr ""
+msgstr "Aller au sud-ouest"
 
 #: action.cpp:323
 msgid "Move West"
-msgstr ""
+msgstr "Aller à l'ouest"
 
 #: action.cpp:325
 msgid "Move Northwest"
-msgstr ""
+msgstr "Aller au nord-ouest"
 
 #: action.cpp:327
 msgid "Descend Stairs"
-msgstr ""
+msgstr "Descendre les marches"
 
 #: action.cpp:329
 msgid "Ascend Stairs"
-msgstr ""
+msgstr "Monter les marches"
 
 #: action.cpp:331
 msgid "Center View"
-msgstr ""
+msgstr "Centrer la caméra"
 
 #: action.cpp:333
 msgid "Move View North"
-msgstr ""
+msgstr "Déplacer la caméra vers le nord"
 
 #: action.cpp:335
 msgid "Move View Northeast"
-msgstr ""
+msgstr "Déplacer la caméra vers le nord-est"
 
 #: action.cpp:337
 msgid "Move View East"
-msgstr ""
+msgstr "Déplacer la caméra vers l'est"
 
 #: action.cpp:339
 msgid "Move View Southeast"
-msgstr ""
+msgstr "Déplacer la caméra vers le sud-est"
 
 #: action.cpp:341
 msgid "Move View South"
-msgstr ""
+msgstr "Déplacer la caméra vers le sud"
 
 #: action.cpp:343
 msgid "Move View Southwest"
-msgstr ""
+msgstr "Déplacer la caméra vers le sud-ouest"
 
 #: action.cpp:345
 msgid "Move View West"
-msgstr ""
+msgstr "Déplacer la caméra vers l'ouest"
 
 #: action.cpp:347
 msgid "Move View Northwest"
-msgstr ""
+msgstr "Déplacer la caméra vers le nord-ouest"
 
 #: action.cpp:349
 msgid "Open Door"
-msgstr ""
+msgstr "Ouvrir la porte"
 
 #: action.cpp:351
 msgid "Close Door"
-msgstr ""
+msgstr "Fermer la porte"
 
 #: action.cpp:353
 msgid "Smash Nearby Terrain"
-msgstr ""
+msgstr "Démolir le terrain adjacent"
 
 #: action.cpp:355
 msgid "Examine Nearby Terrain"
-msgstr ""
+msgstr "Examiner le terrain adjacent"
 
 #: action.cpp:357
 msgid "Pick Item(s) Up"
-msgstr ""
+msgstr "Ramasser le(s) objet(s)"
 
 #: action.cpp:359
 msgid "Butcher"
-msgstr ""
+msgstr "Boucher"
 
 #: action.cpp:361
 msgid "Chat with NPC"
-msgstr ""
+msgstr "Parler à un personnage"
 
 #: action.cpp:363
 msgid "Look Around"
-msgstr ""
+msgstr "Surveiller les alentours"
 
 #: action.cpp:365
 msgid "Peek Around Corners"
-msgstr ""
+msgstr "Jeter un coup d'oeil autour du coin"
 
 #: action.cpp:367
 msgid "List all items around the player"
-msgstr ""
+msgstr "Énumérer les objets autour du joueur"
 
 #: action.cpp:369
 msgid "Open Inventory"
-msgstr ""
+msgstr "Ouvrir l'inventaire"
 
 #: action.cpp:371
 msgid "Advanced Inventory management"
-msgstr ""
+msgstr "La gestion d'inventaire avancée"
 
 #: action.cpp:373
 msgid "Compare two Items"
-msgstr ""
+msgstr "Comparer deux objets"
 
 #: action.cpp:375
 msgid "Swap Inventory Letters"
-msgstr ""
+msgstr "Échanger deux lettres de l'inventaire"
 
 #: action.cpp:377
 msgid "Apply or Use Item"
-msgstr ""
+msgstr "Appliquer ou utiliser un objet"
 
 #: action.cpp:379
 msgid "Apply or Use Wielded Item"
-msgstr ""
+msgstr "Appliquer ou utiliser un objet manié"
 
 #: action.cpp:381
 msgid "Wear Item"
-msgstr ""
+msgstr "Porter un objet"
 
 #: action.cpp:383
 msgid "Take Off Worn Item"
-msgstr ""
+msgstr "Enlever un objet porté"
 
 #: action.cpp:385 npcmove.cpp:2057
 msgid "Eat"
-msgstr ""
+msgstr "Manger"
 
 #: action.cpp:387
 msgid "Read"
-msgstr ""
+msgstr "Lire"
 
 #: action.cpp:389
 msgid "Wield"
-msgstr ""
+msgstr "Manier"
 
 #: action.cpp:391
 msgid "Select Unarmed Style"
-msgstr ""
+msgstr "Sélectionner un style de combat à main nue"
 
 #: action.cpp:393
 msgid "Reload Wielded Item"
-msgstr ""
+msgstr "Recharger un objet manié"
 
 #: action.cpp:395
 msgid "Unload or Empty Wielded Item"
-msgstr ""
+msgstr "Décharger ou vider un objet manié"
 
 #: action.cpp:397
 msgid "Throw Item"
-msgstr ""
+msgstr "Lancer un objet"
 
 #: action.cpp:399
 msgid "Fire Wielded Item"
-msgstr ""
+msgstr "Tirer un objet manié"
 
 #: action.cpp:401
 msgid "Burst-Fire Wielded Item"
-msgstr ""
+msgstr "Tirer en rafale un objet manié"
 
 #: action.cpp:403
 msgid "Toggle attack mode of Wielded Item"
-msgstr ""
+msgstr "Changer le mode d'attaque d'un objet manié"
 
 #: action.cpp:405
 msgid "Drop Item"
-msgstr ""
+msgstr "Déposer un objet"
 
 #: action.cpp:407
 msgid "Drop Item to Adjacent Tile"
-msgstr ""
+msgstr "Déposer un objet dans une case adjacente"
 
 #: action.cpp:409
 msgid "View/Activate Bionics"
-msgstr ""
+msgstr "Examiner/Activer les systèmes bioniques"
 
 #: action.cpp:411
 msgid "Re-layer armour/clothing"
-msgstr ""
+msgstr "Appliquer une nouvelle couche sur l'armure/vêtements"
 
 #: action.cpp:413
 msgid "Wait for Several Minutes"
-msgstr ""
+msgstr "Attendre quelques minutes"
 
 #: action.cpp:415
 msgid "Craft Items"
-msgstr ""
+msgstr "Construire un objet"
 
 #: action.cpp:417
 msgid "Recraft last recipe"
-msgstr ""
+msgstr "Reconstruire l'objet précédent"
 
 #: action.cpp:419
 msgid "Craft as long as possible"
-msgstr ""
+msgstr "Construire aussi longtemps que possible"
 
 #: action.cpp:421
 msgid "Construct Terrain"
-msgstr ""
+msgstr "Bâtir un terrain"
 
 #: action.cpp:423
 msgid "Disassemble items"
-msgstr ""
+msgstr "Désassembler un objet"
 
 #: action.cpp:425 defense.cpp:635 defense.cpp:701 npcmove.cpp:2049
 msgid "Sleep"
-msgstr ""
+msgstr "Dormir"
 
 #: action.cpp:427
 msgid "Control Vehicle"
-msgstr ""
+msgstr "Contrôller un véhicule"
 
 #: action.cpp:429
 msgid "Toggle Safemode"
-msgstr ""
+msgstr "Activer/désactiver le mode sans échec"
 
 #: action.cpp:431
 msgid "Toggle Auto-Safemode"
-msgstr ""
+msgstr "Activer/désactiver le mode sans échec automatique"
 
 #: action.cpp:433
 msgid "Ignore Nearby Enemy"
-msgstr ""
+msgstr "Ignorer l'adversaire"
 
 #: action.cpp:435
 msgid "Save and Quit"
-msgstr ""
+msgstr "Sauvegarder et quitter"
 
 #: action.cpp:437
 msgid "Quicksave"
-msgstr ""
+msgstr "Sauvegarde rapide"
 
 #: action.cpp:439
 msgid "Commit Suicide"
-msgstr ""
+msgstr "Se suicider"
 
 #: action.cpp:441
 msgid "View Player Info"
-msgstr ""
+msgstr "Voir l'information du joueur"
 
 #: action.cpp:443
 msgid "View Map"
-msgstr ""
+msgstr "Voir la carte"
 
 #: action.cpp:445
 msgid "View Missions"
-msgstr ""
+msgstr "Voir les missions"
 
 #: action.cpp:447
 msgid "View Factions"
-msgstr ""
+msgstr "Voir les factions"
 
 #: action.cpp:449
 msgid "View Kills"
-msgstr ""
+msgstr "Voir le décompte des mises a mort"
 
 #: action.cpp:451
 msgid "View Morale"
-msgstr ""
+msgstr "Voir le moral du joueur"
 
 #: action.cpp:453
 msgid "View Message Log"
-msgstr ""
+msgstr "Voir le journal des messages"
 
 #: action.cpp:455
 msgid "View Help"
-msgstr ""
+msgstr "Aide"
 
 #: action.cpp:457
 msgid "Debug Menu"
-msgstr ""
+msgstr "Entrer dans le menu de débogage"
 
 #: action.cpp:459
 msgid "View Scentmap"
-msgstr ""
+msgstr "Dépister les odeurs ambiantes"
 
 #: action.cpp:461
 msgid "Toggle Debug Messages"
-msgstr ""
+msgstr "Activer/désactiver les messages de débogage"
 
 #: action.cpp:463
 msgid "No Action"
-msgstr ""
+msgstr "Ne pas prendre d'action"
 
 #: addiction.cpp:10
 msgid "You could use a cigarette."
-msgstr ""
+msgstr "T'aimerais bien une cigarette."
 
 #: addiction.cpp:10
 msgid "You need a cigarette."
-msgstr ""
+msgstr "Tu as besoin d'une cigarette."
 
 #: addiction.cpp:11
 msgid "You have a nicotine craving."
-msgstr ""
+msgstr "Tu as un grand besoin de nicotine."
 
 #: addiction.cpp:23
 msgid "You want some caffeine."
-msgstr ""
+msgstr "Tu veux de la cafféine."
 
 #: addiction.cpp:24
 msgid "You have a caffeine craving."
-msgstr ""
+msgstr "Tu as un grand besoin de cafféine."
 
 #: addiction.cpp:29
 msgid "Your hands start shaking... you need it bad!"
-msgstr ""
+msgstr "Tes mains se mettent à trembler... Il t'en faut tout de suite!"
 
 #: addiction.cpp:41
 msgid "You could use a drink."
-msgstr ""
+msgstr "T'aimerais bien prendre un petit verre."
 
 #: addiction.cpp:42 addiction.cpp:46
 msgid "You have an alcohol craving."
-msgstr ""
+msgstr "Tu as un grand besoin d'alcohol."
 
 #: addiction.cpp:45
 msgid "Your hands start shaking... you need a drink bad!"
-msgstr ""
+msgstr "Tes mains se mettent à trembler... Il te faut un verre tout de suite!"
 
 #: addiction.cpp:74
 msgid "Your hands start shaking... you need some painkillers."
-msgstr ""
+msgstr "Tes mains se mettent à trembler... Il te faut des analgésiques tout de suite!"
 
 #: addiction.cpp:75
 msgid "You have an opiate craving."
-msgstr ""
+msgstr "Tu as un grand besoin d'opiacés"
 
 #: addiction.cpp:79
 msgid "You feel anxious.  You need your painkillers!"
-msgstr ""
+msgstr "Tu te sents nerveux. Il te faut tes analgésiques."
 
 #: addiction.cpp:81
 msgid "You have a craving."
-msgstr ""
+msgstr "Tu as un besoin incontrôllable."
 
 #: addiction.cpp:83 player.cpp:4788
 msgid "You throw up heavily!"
-msgstr ""
+msgstr "Tu vomis sévèrement!"
 
 #: addiction.cpp:84
 msgid "Throwing up."
-msgstr ""
+msgstr "Tu es en train de vomir"
 
 #: addiction.cpp:102
 msgid "You feel depressed.  Speed would help."
-msgstr ""
+msgstr "Tu te sents déprimé. Un peu d'amphétamines aiderait bien."
 
 #: addiction.cpp:103 addiction.cpp:107
 msgid "You have a speed craving."
-msgstr ""
+msgstr "Tu as un grand besoin d'amphétamines."
 
 #: addiction.cpp:106
 msgid "Your hands start shaking... you need a pick-me-up."
-msgstr ""
+msgstr "Tes mains se mettent à trembler... Il te faut des stimulants!"
 
 #: addiction.cpp:111
 msgid "You stop suddenly, feeling bewildered."
-msgstr ""
+msgstr "Tu arrêtes soudainement, étourdi."
 
 #: addiction.cpp:123 addiction.cpp:128
 msgid "You feel like you need a bump."
-msgstr ""
+msgstr "Un peu de cocaine te ferait certainement du bien."
 
 #: addiction.cpp:124 addiction.cpp:129
 msgid "You have a craving for cocaine."
-msgstr ""
+msgstr "Tu as un grand besoin de cocaine."
 
 #: addiction.cpp:138 addiction.cpp:143
 msgid "You're shivering, you need some crack."
-msgstr ""
+msgstr "Ton corps frissonne incontrôllablement. Il te faut du crack!"
 
 #: addiction.cpp:139 addiction.cpp:144
 msgid "You have a craving for crack."
-msgstr ""
+msgstr "Tu as un grand besoin de crack."
 
 #: addiction.cpp:155
 msgid "Nicotine Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage de nicotine"
 
 #: addiction.cpp:156
 msgid "Caffeine Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage de cafféine"
 
 #: addiction.cpp:157
 msgid "Alcohol Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage d'alcool"
 
 #: addiction.cpp:158
 msgid "Sleeping Pill Dependance"
-msgstr ""
+msgstr "Tu es en sevrage de somnifères"
 
 #: addiction.cpp:159
 msgid "Opiate Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage d'opiacés"
 
 #: addiction.cpp:160
 msgid "Amphetamine Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage d'amphétamines"
 
 #: addiction.cpp:161
 msgid "Cocaine Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage de cocaine"
 
 #: addiction.cpp:162
 msgid "Crack Cocaine Withdrawal"
-msgstr ""
+msgstr "Tu es en sevrage de crack"
 
 #: addiction.cpp:208
 msgid "Intelligence - 1;   Occasional cravings"
-msgstr ""
+msgstr "Intelligence - 1; besoins occasionnels"
 
 #: addiction.cpp:211
 msgid "Strength - 1;   Slight sluggishness;   Occasional cravings"
-msgstr ""
+msgstr "Force - 1; léthargie modérée et besoins occasionnels"
 
 #: addiction.cpp:214
 msgid ""
 "Perception - 1;   Intelligence - 1;   Occasional Cravings;\n"
 "Risk of delirium tremens"
-msgstr ""
+msgstr "Perception - 1; Intellence - 1; besoins occasionnels"
 
 #: addiction.cpp:219
 msgid "You may find it difficult to sleep without medication."
-msgstr ""
+msgstr "Il est possible que tu ais de la difficulté à dormir sans somnifères"
 
 #: addiction.cpp:226
 #, c-format
@@ -477,6 +477,8 @@ msgid ""
 "Strength - %d;   Perception - 1;   Dexterity - 1;\n"
 "Depression and physical pain to some degree.  Frequent cravings.  Vomiting."
 msgstr ""
+"Force - 1; Perception -1; Agilité -1;\n"
+"Degré modéré de dépression et de douleur. Besoins récurrents et vomissements"
 
 #: addiction.cpp:234
 msgid ""
@@ -484,559 +486,561 @@ msgid ""
 "Movement rate reduction.  Depression.  Weak immune system.  Frequent "
 "cravings."
 msgstr ""
+"Force - 1; Intelligence -1;\n"
+"Vitesse réduite. Dépression. Système immunitaire à risque. Besoins récurrents."
 
 #: addiction.cpp:238
 msgid "Perception - 1;   Intelligence - 1;  Frequent cravings."
-msgstr ""
+msgstr "Perception -1; Intellignce - 1; besoins récurrents."
 
 #: addiction.cpp:241
 msgid "Perception - 2;   Intelligence - 2;  Frequent cravings."
-msgstr ""
+msgstr "Perception - 2; Intelligence - 2; besoins récurrents."
 
 #: artifact.cpp:110
 msgid "smooth sphere"
-msgstr ""
+msgstr "une sphère polie"
 
 #: artifact.cpp:110
 msgid "sphere"
-msgstr ""
+msgstr "une sphère"
 
 #: artifact.cpp:111
 msgid "rod"
-msgstr ""
+msgstr "une baguette"
 
 #: artifact.cpp:111
 msgid "tapered rod"
-msgstr ""
+msgstr "une baguette fuselée"
 
 #: artifact.cpp:112
 msgid "teardrop"
-msgstr ""
+msgstr "une larme"
 
 #: artifact.cpp:112
 msgid "teardrop-shaped stone"
-msgstr ""
+msgstr "une roche en forme de larme"
 
 #: artifact.cpp:113
 msgid "hollow, transparent cube"
-msgstr ""
+msgstr "un cube transparent et vide"
 
 #: artifact.cpp:113
 msgid "lamp"
-msgstr ""
+msgstr "une lampe"
 
 #: artifact.cpp:114
 msgid "snake"
-msgstr ""
+msgstr "un serpent"
 
 #: artifact.cpp:114
 msgid "winding, flexible rod"
-msgstr ""
+msgstr "une baguette serpentine et flexible"
 
 #: artifact.cpp:115
 msgid "disc"
-msgstr ""
+msgstr "un disque"
 
 #: artifact.cpp:115
 msgid "smooth disc"
-msgstr ""
+msgstr "un disque poli"
 
 #: artifact.cpp:116
 msgid "beads"
-msgstr ""
+msgstr "des perles"
 
 #: artifact.cpp:116
 msgid "string of beads"
-msgstr ""
+msgstr "un chapelet"
 
 #: artifact.cpp:117
 msgid "napkin"
-msgstr ""
+msgstr "une serviette"
 
 #: artifact.cpp:117
 msgid "very thin sheet"
-msgstr ""
+msgstr "une feuille très mince"
 
 #: artifact.cpp:118
 msgid "spiked sphere"
-msgstr ""
+msgstr "une sphère épinée"
 
 #: artifact.cpp:118
 msgid "urchin"
-msgstr ""
+msgstr "un galopin"
 
 #: artifact.cpp:119
 msgid "jelly"
-msgstr ""
+msgstr "une gelée"
 
 #: artifact.cpp:119
 msgid "malleable blob"
-msgstr ""
+msgstr "un pâté malléable"
 
 #: artifact.cpp:120
 msgid "spiral"
-msgstr ""
+msgstr "une spirale"
 
 #: artifact.cpp:120
 msgid "spiraling rod"
-msgstr ""
+msgstr "une baguette en forme de spirale"
 
 #: artifact.cpp:121
 msgid "pin"
-msgstr ""
+msgstr "une punaise"
 
 #: artifact.cpp:121
 msgid "pointed rod"
-msgstr ""
+msgstr "une baguette pointue"
 
 #: artifact.cpp:122
 msgid "hollow tube"
-msgstr ""
+msgstr "un tube vide"
 
 #: artifact.cpp:122
 msgid "tube"
-msgstr ""
+msgstr "un tube"
 
 #: artifact.cpp:123
 msgid "pyramid"
-msgstr ""
+msgstr "une pyramide"
 
 #: artifact.cpp:123
 msgid "regular tetrahedron"
-msgstr ""
+msgstr "un tétrahèdre régulier"
 
 #: artifact.cpp:124
 msgid "crystal"
-msgstr ""
+msgstr "un crystal"
 
 #: artifact.cpp:124
 msgid "translucent crystal"
-msgstr ""
+msgstr "un crystal translucide"
 
 #: artifact.cpp:125
 msgid "knot"
-msgstr ""
+msgstr "un noeud"
 
 #: artifact.cpp:125
 msgid "twisted, knotted cord"
-msgstr ""
+msgstr "une corde à noeud entortillée"
 
 #: artifact.cpp:126
 msgid "crescent"
-msgstr ""
+msgstr "un croissant"
 
 #: artifact.cpp:126
 msgid "crescent-shaped stone"
-msgstr ""
+msgstr "une roche en forme de croissant"
 
 #: artifact.cpp:137
 msgid "is constantly wriggling"
-msgstr ""
+msgstr "l'objet frétille constamment"
 
 #: artifact.cpp:137
 msgid "wriggling"
-msgstr ""
+msgstr "l'objet frétille"
 
 #: artifact.cpp:143
 msgid "glowing"
-msgstr ""
+msgstr "l'objet brille"
 
 #: artifact.cpp:143
 msgid "glows faintly"
-msgstr ""
+msgstr "l'objet brille doucement"
 
 #: artifact.cpp:149
 msgid "humming"
-msgstr ""
+msgstr "l'objet bourdonne"
 
 #: artifact.cpp:149
 msgid "hums very quietly"
-msgstr ""
+msgstr "l'objet bordonne doucement"
 
 #: artifact.cpp:155
 msgid "moving"
-msgstr ""
+msgstr "l'objet bouge"
 
 #: artifact.cpp:155
 msgid "shifts from side to side slowly"
-msgstr ""
+msgstr "l'objet bouge lentement"
 
 #: artifact.cpp:161
 msgid "makes very faint whispering sounds"
-msgstr ""
+msgstr "l'objet produit des chuchottements doux"
 
 #: artifact.cpp:161
 msgid "whispering"
-msgstr ""
+msgstr "l'objet chuchotte"
 
 #: artifact.cpp:167
 msgid "breathing"
-msgstr ""
+msgstr "l'objet respire"
 
 #: artifact.cpp:168
 msgid "shrinks and grows very slightly with a regular pulse, as if breathing"
-msgstr ""
+msgstr "l'objet s'aggrandit et se raptisse doucement avec un poulx régulier, comme s'il respirait"
 
 #: artifact.cpp:174
 msgid "dead"
-msgstr ""
+msgstr "l'objet est mort"
 
 #: artifact.cpp:174
 msgid "is icy cold to the touch"
-msgstr ""
+msgstr "l'objet semble glacé au touché"
 
 #: artifact.cpp:180
 msgid "itchy"
-msgstr ""
+msgstr "l'objet pique"
 
 #: artifact.cpp:180
 msgid "makes your skin itch slightly when it is close"
-msgstr ""
+msgstr "l'objet te fait piquer un peu lorsqu'il est proche"
 
 #: artifact.cpp:186
 msgid "glittering"
-msgstr ""
+msgstr "l'objet scintille"
 
 #: artifact.cpp:186
 msgid "glitters faintly under direct light"
-msgstr ""
+msgstr "l'objet scintille doucement lorsqu'il est illuminé"
 
 #: artifact.cpp:192
 msgid "electric"
-msgstr ""
+msgstr "l'objet est electrique"
 
 #: artifact.cpp:192
 msgid "very weakly shocks you when touched"
-msgstr ""
+msgstr "l'objet te choque faiblement lorsque tu le touches"
 
 #: artifact.cpp:198
 msgid "feels slimy"
-msgstr ""
+msgstr "l'objet semble gluant"
 
 #: artifact.cpp:198
 msgid "slimy"
-msgstr ""
+msgstr "l'objet est gluant"
 
 #: artifact.cpp:204
 msgid "engraved"
-msgstr ""
+msgstr "l'objet est gravé"
 
 #: artifact.cpp:204
 msgid "is covered with odd etchings"
-msgstr ""
+msgstr "l'objet est couvert de gravures bizarres"
 
 #: artifact.cpp:210
 msgid "crackling"
-msgstr ""
+msgstr "l'objet crépite"
 
 #: artifact.cpp:210
 msgid "occasionally makes a soft crackling sound"
-msgstr ""
+msgstr "l'objet produit un faible crépitement de temps en temps"
 
 #: artifact.cpp:216
 msgid "is warm to the touch"
-msgstr ""
+msgstr "l'objet semble chaud"
 
 #: artifact.cpp:216
 msgid "warm"
-msgstr ""
+msgstr "l'objet est chaud"
 
 #: artifact.cpp:222
 msgid "makes a rattling sound when moved"
-msgstr ""
+msgstr "l'objet produit crécelle lorsqu'il est bougé"
 
 #: artifact.cpp:222
 msgid "rattling"
-msgstr ""
+msgstr "l'objet cliquète"
 
 #: artifact.cpp:228
 msgid "has a surface reminiscent of reptile scales"
-msgstr ""
+msgstr "la surface de l'objet rapelle les écailles d'un reptile"
 
 #: artifact.cpp:228
 msgid "scaled"
-msgstr ""
+msgstr "l'objet est écaillé"
 
 #: artifact.cpp:234
 msgid "fractal"
-msgstr ""
+msgstr "l'objet est fractal"
 
 #: artifact.cpp:235
 msgid ""
 "has a self-similar pattern which repeats until it is too small for you to see"
-msgstr ""
+msgstr "l'objet a un motif qui se répète jusqu'à ce qu'il soit trop petit pour que tu puisse le voir"
 
 #: artifact.cpp:248
 msgid "Harp"
-msgstr ""
+msgstr "une harpe"
 
 #: artifact.cpp:251
 msgid "Staff"
-msgstr ""
+msgstr "un bâton"
 
 #: artifact.cpp:254
 msgid "Sword"
-msgstr ""
+msgstr "une épée"
 
 #: artifact.cpp:257
 msgid "Dagger"
-msgstr ""
+msgstr "une dague"
 
 #: artifact.cpp:260
 msgid "Cube"
-msgstr ""
+msgstr "un cube"
 
 #: artifact.cpp:268
 msgid "Heavy"
-msgstr ""
+msgstr "lourd"
 
 #: artifact.cpp:270
 msgid "Knobbed"
-msgstr ""
+msgstr "avec pomeau"
 
 #: artifact.cpp:272
 msgid "Spiked"
-msgstr ""
+msgstr "épiné"
 
 #: artifact.cpp:274
 msgid "Edged"
-msgstr ""
+msgstr "à lame"
 
 #: artifact.cpp:276
 msgid "Bladed"
-msgstr ""
+msgstr "à lame"
 
 #: artifact.cpp:286
 msgid "Robe"
-msgstr ""
+msgstr "une robe"
 
 #: artifact.cpp:291
 msgid "Coat"
-msgstr ""
+msgstr "un manteau"
 
 #: artifact.cpp:296
 msgid "Mask"
-msgstr ""
+msgstr "un masque"
 
 #: artifact.cpp:302
 msgid "Helm"
-msgstr ""
+msgstr "un casque"
 
 #: artifact.cpp:307
 msgid "Gloves"
-msgstr ""
+msgstr "une paire de gants"
 
 #: artifact.cpp:313
 msgid "Boots"
-msgstr ""
+msgstr "une paire de bottes"
 
 #: artifact.cpp:318
 msgid "Ring"
-msgstr ""
+msgstr "un anneau"
 
 #: artifact.cpp:330
 msgid "very thin and light."
-msgstr ""
+msgstr "très mince et léger."
 
 #: artifact.cpp:335
 msgid "extremely bulky."
-msgstr ""
+msgstr "extrèmement encombrant."
 
 #: artifact.cpp:339
 msgid "covered in pockets."
-msgstr ""
+msgstr "couvert de poches."
 
 #: artifact.cpp:343
 msgid "disgustingly furry."
-msgstr ""
+msgstr "répugnant et poilu."
 
 #: artifact.cpp:348
 msgid "leather-padded."
-msgstr ""
+msgstr "rembourré de cuir"
 
 #: artifact.cpp:352
 msgid "plated in iron."
-msgstr ""
+msgstr "plaqué en fer"
 
 #: artifact.cpp:360
 msgid "Eldritch"
-msgstr ""
+msgstr "ésotérique"
 
 #: artifact.cpp:360
 msgid "Forbidden"
-msgstr ""
+msgstr "interdit"
 
 #: artifact.cpp:360
 msgid "Forgotten"
-msgstr ""
+msgstr "oublié"
 
 #: artifact.cpp:360
 msgid "Hideous"
-msgstr ""
+msgstr "répugnant"
 
 #: artifact.cpp:360
 msgid "Unknown"
-msgstr ""
+msgstr "inconnu"
 
 #: artifact.cpp:361
 msgid "Ancient"
-msgstr ""
+msgstr "ancien"
 
 #: artifact.cpp:361
 msgid "Bloody"
-msgstr ""
+msgstr "ensanglanté"
 
 #: artifact.cpp:361
 msgid "Cursed"
-msgstr ""
+msgstr "maudit"
 
 #: artifact.cpp:361
 msgid "Gelatinous"
-msgstr ""
+msgstr "gélatineux"
 
 #: artifact.cpp:361
 msgid "Undying"
-msgstr ""
+msgstr "impérissable"
 
 #: artifact.cpp:362
 msgid "Cyclopean"
-msgstr ""
+msgstr "cyclopéen"
 
 #: artifact.cpp:362
 msgid "Fungal"
-msgstr ""
+msgstr "fongique"
 
 #: artifact.cpp:362
 msgid "Shadowy"
-msgstr ""
+msgstr "ténébreux"
 
 #: artifact.cpp:362
 msgid "Silent"
-msgstr ""
+msgstr "silencieux"
 
 #: artifact.cpp:362
 msgid "Unspeakable"
-msgstr ""
+msgstr "indescriptible"
 
 #: artifact.cpp:363
 msgid "Frigid"
-msgstr ""
+msgstr "frigide"
 
 #: artifact.cpp:363 player.cpp:541
 msgid "Grotesque"
-msgstr ""
+msgstr "grotesque"
 
 #: artifact.cpp:363
 msgid "Repellent"
-msgstr ""
+msgstr "dégeulasse"
 
 #: artifact.cpp:363
 msgid "Shattered"
-msgstr ""
+msgstr "fracassé"
 
 #: artifact.cpp:363
 msgid "Sleeping"
-msgstr ""
+msgstr "endormi"
 
 #: artifact.cpp:368
 #, c-format
 msgid "%s Beasts"
-msgstr ""
+msgstr "les bêtes %s"
 
 #: artifact.cpp:368
 #, c-format
 msgid "%s Dreams"
-msgstr ""
+msgstr "les Rèves"
 
 #: artifact.cpp:368
 #, c-format
 msgid "%s Evil"
-msgstr ""
+msgstr "%s Créatures maléfiques"
 
 #: artifact.cpp:368
 #, c-format
 msgid "%s Miasma"
-msgstr ""
+msgstr "%s miasme"
 
 #: artifact.cpp:368
 #, c-format
 msgid "%s Technique"
-msgstr ""
+msgstr "%s technique"
 
 #: artifact.cpp:369
 #, c-format
 msgid "%s Illusion"
-msgstr ""
+msgstr "%s illusions"
 
 #: artifact.cpp:369
 #, c-format
 msgid "%s Shade"
-msgstr ""
+msgstr "%s fantômes"
 
 #: artifact.cpp:369
 #, c-format
 msgid "%s Shadows"
-msgstr ""
+msgstr "%s ombres"
 
 #: artifact.cpp:369
 #, c-format
 msgid "the %s Abyss"
-msgstr ""
+msgstr "les abysses %s"
 
 #: artifact.cpp:369
 #, c-format
 msgid "the %s City"
-msgstr ""
+msgstr "la ville %s"
 
 #: artifact.cpp:370
 #, c-format
 msgid "%s Aeons"
-msgstr ""
+msgstr "les éons %s"
 
 #: artifact.cpp:370
 #, c-format
 msgid "%s Ichor"
-msgstr ""
+msgstr "l'ichor %s"
 
 #: artifact.cpp:370
 #, c-format
 msgid "%s Justice"
-msgstr ""
+msgstr "la justice %s"
 
 #: artifact.cpp:370
 #, c-format
 msgid "the %s Monolith"
-msgstr ""
+msgstr "le monolithe %s"
 
 #: artifact.cpp:370
 #, c-format
 msgid "the %s Necropolis"
-msgstr ""
+msgstr "la nécropole %s"
 
 #: artifact.cpp:371
 #, c-format
 msgid "%s Death"
-msgstr ""
+msgstr "la mort %s"
 
 #: artifact.cpp:371
 #, c-format
 msgid "%s Graves"
-msgstr ""
+msgstr "la tombe %s"
 
 #: artifact.cpp:371
 #, c-format
 msgid "%s Horror"
-msgstr ""
+msgstr "l'horreur %s"
 
 #: artifact.cpp:371
 #, c-format
 msgid "%s Horrors"
-msgstr ""
+msgstr "les horreurs %s"
 
 #: artifact.cpp:371
 #, c-format
 msgid "%s Suffering"
-msgstr ""
+msgstr "la souffrances"
 
 #: artifact.cpp:419
 #, c-format
